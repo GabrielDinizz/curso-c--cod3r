@@ -18,6 +18,6 @@ Este repositório contém todos os exercícios e projetos do curso da Udemy, "C#
 
 Sinta-se à vontade para explorar, clonar e utilizar este repositório para reforçar suas habilidades em C#!
 
-<img src="https://github.com/user-attachments/assets/e58d89e2-9fa8-4a09-ba0d-aac15c53f214" alt="UC-c1bfbb08-e306-4ef7-9f46-5e43026ef506" width="400"/>
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e58d89e2-9fa8-4a09-ba0d-aac15c53f214" alt="Descrição da Imagem" width="300"/>
+</p>
