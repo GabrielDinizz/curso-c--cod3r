@@ -1,0 +1,63 @@
+# Arquivos de build e pastas
+bin/
+obj/
+.vs/
+out/
+Debug/
+Release/
+
+# Diretórios de publicação
+publish/
+
+# Arquivos de log
+*.log
+
+# Arquivos gerados pelo Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de cache
+*.cache
+*.ide
+
+# Arquivos temporários e de build
+*.tmp
+*.csproj.user
+*.csproj.DotSettings.user
+
+# Dados de depuração e caches
+.vscode/
+.vscode/*
+
+# Arquivos de banco de dados locais (SQL Server, SQLite, etc.)
+*.mdf
+*.ldf
+*.ndf
+*.sqlite
+
+# Arquivos de pacote NuGet
+*.nupkg
+# Arquivo de lock do NuGet
+project.lock.json
+project.fragment.lock.json
+
+# Arquivos de pacotes gerenciados pelo NuGet
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Arquivos temporários da IDE Rider
+.idea/
+.idea/*
+
+# Arquivos de Configuração de Usuário e Licenças
+.vs/
+_ReSharper.Caches/
+
+# Arquivos gerados pela ferramenta de publicação do Visual Studio
+*.Publish.xml
+
+# Arquivos de configuração de sistema específicos
+.vscode/
